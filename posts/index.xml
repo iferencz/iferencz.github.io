@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Iferencz</title>
-    <link>/posts/</link>
+    <link>https://150015.top/posts/</link>
     <description>Recent content in Posts on Iferencz</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>zh</language>
     <lastBuildDate>Fri, 06 Jun 2025 18:45:27 +0800</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://150015.top/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一篇</title>
-      <link>/posts/1_my-first-post/</link>
+      <link>https://150015.top/posts/1_my-first-post/</link>
       <pubDate>Fri, 06 Jun 2025 18:45:27 +0800</pubDate>
-      <guid>/posts/1_my-first-post/</guid>
+      <guid>https://150015.top/posts/1_my-first-post/</guid>
       <description>&lt;p&gt;欢迎大家&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>欢迎大家</p>
 ]]></content:encoded>
